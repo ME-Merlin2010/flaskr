@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: Flaskr",
+  "description": "A Python app framework.",
+  "image": "heroku/python",
+  "repository": "https://github.com/ME-Merlin2010/flaskr",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
